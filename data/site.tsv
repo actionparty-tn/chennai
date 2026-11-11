@@ -1,0 +1,22 @@
+#key	value
+name	TN / Chennai
+byline	A DAWN Site
+year	2019
+
+|labels and messages
+iconName	Chennai TN
+siteMenuName	Chennai Home
+description	TN / Chennai site of Action Party
+notes	notes/status
+welcome-message	This is a DAWN Site
+footer-message	DAWN
+
+|img and styles
+safeName	actionparty-tn-chennai	//NOTE: used in getLogoOr
+mediakit	?palette=default
+|fonts	cursive=Eagle+Lake&menu=Quintessential&menu-size=1.3rem
+
+|technical
+sections	1, 2, 3, 4, 5, 6, 7, 8, 9, 10, whois
+local-url	http://localhost/h/2/action/tn/1/chennai/
+live-url	https://action.amadeusweb.in/tn/1/chennai/
